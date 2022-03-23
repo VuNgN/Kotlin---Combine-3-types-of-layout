@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">step2_Lo_San_Xuat</string>
+    <string name="tem_txng_btn">Tem TXNG</string>
+    <string name="share_btn">Chia sẻ</string>
+    <string name="post_btn">Đăng tin bán</string>
+    <string name="topLayoutTitle">Mít thái</string>
+    <string name="title1">Lô sản xuất</string>
+    <string name="title2">Loại giống</string>
+    <string name="title3">Địa điểm sản xuất</string>
+    <string name="title4">Tiêu chuẩn</string>
+    <string name="title5">Sán lượng dự kiến</string>
+    <string name="title6">Thời gian thu khoạch</string>
+    <string name="desc1">652548MI2</string>
+    <string name="desc2">Mít Thái</string>
+    <string name="desc3">Đồng nai</string>
+    <string name="desc4">Vietgap</string>
+    <string name="desc5">10 Tấn</string>
+    <string name="desc6">12/09/2021 - 20/09/2021</string>
+</resources>
